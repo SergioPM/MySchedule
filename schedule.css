@@ -1,0 +1,21 @@
+table, th, td {
+  text-align: left;
+  width: 1500px;
+  border: 1px solid black;
+}
+h1 {
+  text-decoration: underline;
+  font-weight: bold;
+  }
+#light {
+  background-color: rgb(224,239,241);
+}
+#dark{
+  background-color: rgb(0,0,0);
+  color: rgb(125,180,181)
+}
+td:hover{
+  background-color: rgb(104,1,72);
+  color: rgb(255,255,255)
+}
+/* Color Palette adapted from: http://http://www.colourlovers.com/palette/132637/Odd_but_trendy   */
